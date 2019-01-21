@@ -1,12 +1,2 @@
 本项目的结构。
-|--paper
-|--paper_read
-   |--sort1
-      |--paper1
-         |--paper1.pdf
-         |--读后感.doc
-         |--....
-      |--paper2
-      |--....
-   |--sort2
-   |--....
+![image](https://github.com/rebornfz/blockchain_paper_read/blob/master/0.gif)
