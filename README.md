@@ -1,1 +1,12 @@
-# blockchain_paper_read
+本项目的结构。
+|--paper
+|--paper_read
+   |--sort1
+      |--paper1
+         |--paper1.pdf
+         |--读后感.doc
+         |--....
+      |--paper2
+      |--....
+   |--sort2
+   |--....
